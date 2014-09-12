@@ -1,0 +1,8 @@
+C:\Users\jchoong\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Release\ConsoleApplication3.exe.config
+C:\Users\jchoong\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Release\ConsoleApplication3.exe
+C:\Users\jchoong\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Release\ConsoleApplication3.pdb
+C:\Users\jchoong\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Release\ConsoleApplication3.Form1.resources
+C:\Users\jchoong\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Release\ConsoleApplication3.csproj.GenerateResource.Cache
+C:\Users\jchoong\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Release\ConsoleApplication3.exe
+C:\Users\jchoong\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Release\ConsoleApplication3.pdb
+C:\Users\jchoong\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Release\ConsoleApplication3.csprojResolveAssemblyReference.cache
